@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myyieldapp-dev-90005-authRole",
+      "UnauthRoleArn": "arn:aws:iam::609170532317:role/amplify-myyieldapp-dev-90005-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::609170532317:role/amplify-myyieldapp-dev-90005-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-myyieldapp-dev-90005-deployment",
+      "UnauthRoleName": "amplify-myyieldapp-dev-90005-unauthRole",
+      "StackName": "amplify-myyieldapp-dev-90005",
+      "StackId": "arn:aws:cloudformation:us-east-2:609170532317:stack/amplify-myyieldapp-dev-90005/3a31e700-d546-11ee-a97a-06e7eeb50d11",
+      "AmplifyAppId": "d1ma7zfavp5bkk"
+    },
+    "categories": {
+      "auth": {
+        "myyieldapp405564ad": {}
+      }
+    }
+  }
+}
