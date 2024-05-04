@@ -1,6 +1,26 @@
 {
+  "api": {
+    "myyelpkev": {
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "additionalAuthenticationProviders": [],
+          "defaultAuthentication": {
+            "apiKeyConfig": {
+              "apiKeyExpirationDate": "2024-05-11T14:59:51.829Z",
+              "apiKeyExpirationDays": 7,
+              "description": ""
+            },
+            "authenticationType": "API_KEY"
+          }
+        }
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "AppSync"
+    }
+  },
   "auth": {
-    "myyieldapp405564ad": {
+    "myyelpkev0e535b24": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {
@@ -26,28 +46,9 @@
     }
   },
   "hosting": {
-    "amplifyhosting": {
+    "S3AndCloudFront": {
       "providerPlugin": "awscloudformation",
-      "service": "amplifyhosting",
-      "type": "manual"
-    }
-  },
-  "parameters": {
-    "AMPLIFY_hosting_amplifyhosting_appId": {
-      "usedBy": [
-        {
-          "category": "hosting",
-          "resourceName": "amplifyhosting"
-        }
-      ]
-    },
-    "AMPLIFY_hosting_amplifyhosting_type": {
-      "usedBy": [
-        {
-          "category": "hosting",
-          "resourceName": "amplifyhosting"
-        }
-      ]
+      "service": "S3AndCloudFront"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "version": "1",
   "cognitoConfig": {
-    "identityPoolName": "myyieldapp405564ad_identitypool_405564ad",
+    "identityPoolName": "myyelpkev0e535b24_identitypool_0e535b24",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "myyiel405564ad",
-    "userPoolName": "myyieldapp405564ad_userpool_405564ad",
+    "resourceNameTruncated": "myyelp0e535b24",
+    "userPoolName": "myyelpkev0e535b24_userpool_0e535b24",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -31,10 +31,10 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "myyiel405564ad_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "myyelp0e535b24_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "405564ad",
-    "resourceName": "myyieldapp405564ad",
+    "sharedId": "0e535b24",
+    "resourceName": "myyelpkev0e535b24",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "default",
     "userPoolGroupList": [],

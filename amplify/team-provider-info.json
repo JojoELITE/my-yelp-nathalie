@@ -1,25 +1,25 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-myyieldapp-dev-90005-authRole",
-      "UnauthRoleArn": "arn:aws:iam::609170532317:role/amplify-myyieldapp-dev-90005-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::609170532317:role/amplify-myyieldapp-dev-90005-authRole",
-      "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-myyieldapp-dev-90005-deployment",
-      "UnauthRoleName": "amplify-myyieldapp-dev-90005-unauthRole",
-      "StackName": "amplify-myyieldapp-dev-90005",
-      "StackId": "arn:aws:cloudformation:us-east-2:609170532317:stack/amplify-myyieldapp-dev-90005/3a31e700-d546-11ee-a97a-06e7eeb50d11",
-      "AmplifyAppId": "d1ma7zfavp5bkk"
+      "AuthRoleName": "amplify-myyelpkev-dev-76fd2-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335654354:role/amplify-myyelpkev-dev-76fd2-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335654354:role/amplify-myyelpkev-dev-76fd2-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-myyelpkev-dev-76fd2-deployment",
+      "UnauthRoleName": "amplify-myyelpkev-dev-76fd2-unauthRole",
+      "StackName": "amplify-myyelpkev-dev-76fd2",
+      "StackId": "arn:aws:cloudformation:eu-north-1:730335654354:stack/amplify-myyelpkev-dev-76fd2/13c99ac0-0a22-11ef-8360-06000f3d951f",
+      "AmplifyAppId": "d1sl3ip2291c4o"
     },
     "categories": {
       "auth": {
-        "myyieldapp405564ad": {}
+        "myyelpkev0e535b24": {}
+      },
+      "api": {
+        "myyelpkev": {}
       },
       "hosting": {
-        "amplifyhosting": {
-          "appId": "d1ma7zfavp5bkk",
-          "type": "manual"
-        }
+        "S3AndCloudFront": {}
       }
     }
   }

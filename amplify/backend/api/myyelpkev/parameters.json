@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "myyelpkev",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-05-04T15:00:01.837Z"
+}
