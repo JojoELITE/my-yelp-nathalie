@@ -22,5 +22,29 @@
         "S3AndCloudFront": {}
       }
     }
+  },
+  "nat": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myyelpkev-nat-5b3bb-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335654354:role/amplify-myyelpkev-nat-5b3bb-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335654354:role/amplify-myyelpkev-nat-5b3bb-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-myyelpkev-nat-5b3bb-deployment",
+      "UnauthRoleName": "amplify-myyelpkev-nat-5b3bb-unauthRole",
+      "StackName": "amplify-myyelpkev-nat-5b3bb",
+      "StackId": "arn:aws:cloudformation:us-east-2:730335654354:stack/amplify-myyelpkev-nat-5b3bb/40c22df0-1178-11ef-8f22-0644123f5dcf",
+      "AmplifyAppId": "d1uoyz3gklo5l8"
+    },
+    "categories": {
+      "auth": {
+        "myyelpkev0e535b24": {}
+      },
+      "api": {
+        "myyelpkev": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
   }
 }
